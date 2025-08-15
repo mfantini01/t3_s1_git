@@ -1,0 +1,5 @@
+#arquivos que devem ser ignorados
+log.txt
+
+#pastas que devem ser ignoradas 
+/nova_pasta

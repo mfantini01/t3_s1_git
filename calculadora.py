@@ -6,3 +6,4 @@ def subtrair(a, b):
 
 def multiplicar(a, b):
     a * b
+
